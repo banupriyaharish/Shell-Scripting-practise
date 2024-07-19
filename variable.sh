@@ -16,3 +16,7 @@ echo "Name is $name, and $(date) "
 echo " Enter the name : "
 read username
 echo "You entered the username "
+
+echo "The characters entered in $0 are $1 $2 $3"
+
+
